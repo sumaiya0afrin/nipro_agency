@@ -1,0 +1,28 @@
+color------
+
+ash #8e8e8e
+black #333333
+white #ffffff
+
+fonts------
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+
+header-----
+padding....   xxl-md    20px
+			  sm-col    12px  
+
+
+<i class="fa-brands fa-facebook-f"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-dribbble"></i>
+<i class="fa-brands fa-instagram"></i>  
+
+-  1Th Storage
+-  Unlimited Members
+-  50 Project
+-  70GB Bandwidth
+-  24/7 Customer Support
+    
+			  
